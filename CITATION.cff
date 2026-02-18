@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Practica: Sistema respiratorio simplificado'
+message: Modelado de Sistemas Fisiológicos/Ingeniería Biomédica
+type: software
+authors:
+  - given-names: Tchandra Yahoel
+    family-names: Camacho Llanes
+    email: l19212376@tijuana.tecnm.mx
+    affiliation: Tecnologico Nacional de Mexico
+identifiers:
+  - type: url
+    value: 'https://github.com/Camacho19212376/MSFPractica0'
+    description: Repositorio GitHub
+keywords:
+  - Sistema circulatorio
+  - Circuito RLC
+  - Controlador PID
+  - Modelo matemático
+  - Simulaciones numericas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-02-17'
